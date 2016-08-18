@@ -136,3 +136,8 @@
 136 SUPRIMECAM_r	Subaru Suprime-Cam r+ (http://www.astro.caltech.edu/~capak/filters/index.html)
 137 SUPRIMECAM_i	Subaru Suprime-Cam i+ (http://www.astro.caltech.edu/~capak/filters/index.html)
 138 SUPRIMECAM_z	Subaru Suprime-Cam z+ (http://www.astro.caltech.edu/~capak/filters/index.html)
+139 WFC3_UVIS_F373N	HST WFC3 UVIS F373N (http://www.stsci.edu/~WFC3/UVIS/SystemThroughput/) Chip #1
+140 WFC3_UVIS_F487N	HST WFC3 UVIS F487N (http://www.stsci.edu/~WFC3/UVIS/SystemThroughput/) Chip #1
+141 WFC3_UVIS_F502N	HST WFC3 UVIS F502N (http://www.stsci.edu/~WFC3/UVIS/SystemThroughput/) Chip #1
+142 WFC3_UVIS_F657N	HST WFC3 UVIS F657N (http://www.stsci.edu/~WFC3/UVIS/SystemThroughput/) Chip #1
+143 WFC3_UVIS_F673N	HST WFC3 UVIS F673N (http://www.stsci.edu/~WFC3/UVIS/SystemThroughput/) Chip #1
